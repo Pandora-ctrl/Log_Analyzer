@@ -1,6 +1,6 @@
 # Log_Analyzer
 Simple Log Analyzer for IARU HF contest
-rev 1.0, by OE8TED
+rev 1.0
 
 Two different Cabrillo logs can be opened, analyzed and compared.
 Analysis focuses on hourly and 10min QSO rates, worked zones, continents and points.
