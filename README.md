@@ -7,7 +7,7 @@ rev 1.0
 - The analysis focuses on hourly and 10min QSO rates, hourly point rates, continents and zones.
 - 13 different histogram plot formats are generated and saved in png format.
 - For each band mode combination a dedicated log file is saved.
-- A basic points per QSO calculation is included incl. ambigous zone vs continent handling.
+- A basic points per QSO calculation is done also resolving continent vs zone ambiguity.
 
 # What this program can not do
 - Remove duplicate entries: All dupes are always considered as those contribute to QSO rates.
